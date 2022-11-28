@@ -4,7 +4,7 @@
 name: 'cd'
 on:
   push:
-    branches: [main]
+    branches: [master]
 defaults:
   run:
     shell: 'bash'
